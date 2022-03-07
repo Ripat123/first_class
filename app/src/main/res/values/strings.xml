@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">first_class</string>
+    <string name="hello">Hello World!</string>
+    <string name="first_apps">First Apps.</string>
+    <string name="hint1">Enter your name:</string>
+    <string name="user">User</string>
+    <string name="first_name">First Name...</string>
+    <string name="last_name">Last name...</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+</resources>
